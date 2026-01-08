@@ -3,12 +3,12 @@
 Student Name: Divya  
 Student ID: bitsom_ba_25071453  
 Email: d.silaylaan@gmail.com  
-Date: 08-01-2025  
+Date: 08-01-2026 
 
 Project Overview:
-This project is about building a data system for FlexiMart.
-It includes ETL, SQL queries, MongoDB operations, and a data warehouse.
-The project shows how data moves from raw files to analytics.
+This project is about building a data system for a retail company called FlexiMart. Raw customer, product, and sales data is loaded into a database using Python. SQL queries are used to find useful business information.
+MongoDB is used to work with NoSQL data. A data warehouse is created to support analytics and reporting.
+
 
 ## Repository Structure
 ├── part1-database-etl/
@@ -35,11 +35,12 @@ MongoDB Compass 1.47.1
 
 
 Key Learnings:
-I learned how to load data into a database.
-I learned SQL queries and MongoDB.
-I understood data warehouse concepts.
+## Key Learnings
+
+Through this project, I learned how to load raw data into a database using an ETL process. I understood how SQL queries are used to analyze business data and answer real-world questions. I learned how MongoDB works with NoSQL data and how it is different from relational databases. I also learned how a data warehouse is designed using fact and dimension tables. This project helped me understand the complete flow of data from raw files to analytics.
+
 
 Challenges Faced:
-Understanding database connections
+Understanding mysql connections
 Designing the data warehouse
-Coding ETL pipelines
+loading data to database using ETL pipelines
